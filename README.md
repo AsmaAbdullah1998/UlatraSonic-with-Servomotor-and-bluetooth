@@ -16,6 +16,10 @@
 
 ## Circuit Description 
 
+* The circuit is for the reception Robot in [Smart Methods](https://www.s-m.com.sa) Saudi Compnay. 
+* UltraSonic measures the distance of people and if the distacne is 15 cm and less and for three seconds then the bluetooth will send a HELLO message to the phone and at the same time the servo motor will move (say hi physically:) )
+* code: https://github.com/AsmaAbdullah1998/UlatraSonic-with-Servomotor-and-bluetooth/blob/main/Code1/Code1.ino
+
 
 
 
