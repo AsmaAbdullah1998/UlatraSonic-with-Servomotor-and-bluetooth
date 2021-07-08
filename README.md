@@ -7,6 +7,7 @@
 ![WhatsApp Image 2021-07-08 at 4 22 52 PM](https://user-images.githubusercontent.com/66702376/124929026-d7370700-e008-11eb-8432-db185a98e1c3.jpeg)
 
 ## Circuit Diagram
+![circuit diagram_bb](https://user-images.githubusercontent.com/66702376/124947664-b5458080-e018-11eb-9ad3-2965507bf02c.png)
 
 
 
